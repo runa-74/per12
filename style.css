@@ -1,0 +1,29 @@
+a{
+    color: brown;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: aqua;
+    text-decoration-thickness: 4px;
+     text-transform:uppercase;
+}
+
+ .c1{
+    text-indent: 50px;
+    letter-spacing: 5px;
+     line-height: 200%;
+}
+.c2
+{
+    text-indent: 50px;
+     word-spacing: 5px;
+     white-space: pre-wrap;
+}
+.c3{
+    color: black;
+    text-shadow: 10px 7px 6px red,0 0 4px blue ;
+}
+
+.c4
+{
+    font-family: 'Borel',cursive;
+}
